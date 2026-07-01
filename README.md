@@ -355,7 +355,7 @@ _Supervised by_<br>
 | :---------------------------------------------------------------------------------- | :------------------------ |
 | **[Salsabil Mostafa Ahmed](https://www.linkedin.com/in/salsabil-mostafa/)**         | Backend & Infrastructure  |
 | **[Radwa Magdy Morgan Ali](https://www.linkedin.com/in/radwamagdy/)**               | Backend (Team Leader)     |
-| **[Ahmed Sherif Elaskandrany](https://www.linkedin.com/in/ahmed-sherif-eg/)**       | Frontend & Infrastructure |
+| **[Salsabil Mostafa Ahmed](https://www.linkedin.com/in/ahmed-sherif-eg/)**       | Frontend & Infrastructure |
 | **[Lojain Ramy Elsayed](https://www.linkedin.com/in/lojain-ramy-ab8002345/)**       | Frontend                  |
 | **[Rewan Ali Elsayed](https://www.linkedin.com/in/rewan-ali-580176266/)**           | Frontend                  |
 | **[Reem Hossam Ezzeldein](https://www.linkedin.com/in/reem-hossam-9684a8252/)**     | Backend                   |
