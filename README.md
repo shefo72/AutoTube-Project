@@ -353,7 +353,7 @@ _Supervised by_<br>
 
 | Team Member                                                                         | Role                      |
 | :---------------------------------------------------------------------------------- | :------------------------ |
-| **[Salsabil Mosatafa Ahmed](https://www.linkedin.com/in/salsabil-mostafa/)**        | Backend & Infrastructure  |
+| **[Salsabil Mostafa Ahmed](https://www.linkedin.com/in/salsabil-mostafa/)**         | Backend & Infrastructure  |
 | **[Radwa Magdy Morgan Ali](https://www.linkedin.com/in/radwamagdy/)**               | Backend (Team Leader)     |
 | **[Ahmed Sherif Elaskandrany](https://www.linkedin.com/in/ahmed-sherif-eg/)**       | Frontend & Infrastructure |
 | **[Lojain Ramy Elsayed](https://www.linkedin.com/in/lojain-ramy-ab8002345/)**       | Frontend                  |
